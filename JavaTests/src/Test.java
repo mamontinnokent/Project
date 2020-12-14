@@ -1,5 +1,7 @@
+import javax.swing.text.MaskFormatter;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
@@ -10,33 +12,60 @@ import java.io.*;
 Разделение файла
 */
 
-public class Test {
-    public static void main(String[] args) throws IOException {
-        FileInputStream in = new FileInputStream(new File((new BufferedReader(new InputStreamReader(System.in))).readLine()));
-        FileOutputStream out1 =  new FileOutputStream(new File((new BufferedReader(new InputStreamReader(System.in))).readLine()));
-        FileOutputStream out2 =  new FileOutputStream(new File((new BufferedReader(new InputStreamReader(System.in))).readLine()));
+//public class Test {
+//
+//    public String getPhoneNumber() {
+//        String pn = "" + this.data.getCountryPhoneCode() + String.format("%010d", this.data.getPhoneNumber());
+//        String finish = "(###)###-##-##";
+//        String start = "+";
+//        String code = "" + data.getCountryPhoneCode();
+//        for (int i = 0; i < code.length(); i++) {
+//            start += "#";
+//        }
+//
+//        String mask = start + finish;
+//
+//        try {
+//            MaskFormatter maskFormatter = new MaskFormatter(mask);
+//            maskFormatter.setValueContainsLiteralCharacters(false);
+//            pn = maskFormatter.valueToString(pn) ;
+//        }
+//        catch (ParseException e){
+//            System.out.println("ParseException");
+//        }
+//
+//        return pn;
+//
+//    }
+//}
 
-        int iter = 0;
-        System.out.println(in.available());
-        int range = in.available() / 2 == 0 ? in.available() / 2 : in.available() / 2 + 1;
-        byte[] buffer = new byte[range];
 
-        while (iter != 2) {
-            int count = in.read(buffer);
-            if (iter == 0) {
-                out1.write(buffer, 0, count);
-            } else {
-                out2.write(buffer, 0, count);
-            }
+//    public static void main(String[] args) throws IOException {
+//        FileInputStream in = new FileInputStream(new File((new BufferedReader(new InputStreamReader(System.in))).readLine()));
+//        FileOutputStream out1 =  new FileOutputStream(new File((new BufferedReader(new InputStreamReader(System.in))).readLine()));
+//        FileOutputStream out2 =  new FileOutputStream(new File((new BufferedReader(new InputStreamReader(System.in))).readLine()));
+//
+//        int iter = 0;
+//        System.out.println(in.available());
+//        int range = in.available() / 2 == 0 ? in.available() / 2 : in.available() / 2 + 1;
+//        byte[] buffer = new byte[range];
+//
+//        while (iter != 2) {
+//            int count = in.read(buffer);
+//            if (iter == 0) {
+//                out1.write(buffer, 0, count);
+//            } else {
+//                out2.write(buffer, 0, count);
+//            }
+//
+//            iter++;
+//        }
+//
+//        out1.close();
+//        out2.close();
+//        in.close();
+//    }
 
-            iter++;
-        }
-
-        out1.close();
-        out2.close();
-        in.close();
-    }
-}
 
 //public class Test {
 //    public static void main(String[] args) throws Exception {
