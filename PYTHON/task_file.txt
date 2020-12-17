@@ -1,44 +1,40 @@
-Abramov.I@company.io, Ivan, Abramov, 7776514, Moscow
-Nikolaev.A@company.io, Alexey, Nikolaev, 1348520, Moscow
-Shapar.M@company.io, Marina, Shapar, 1111110, Moscow
-Vasilyev.D@company.io, Dmitriy, Vasilyev, 0000000, Kazan
-Ilyina.E@company.io, Ekaterina, Ilyina, , St.Petersburg
-Grigoryan.A@company.io, Anastasiya, Grigoryan, 1928421, Ekaterinburg
-Fedorov.A@company.io, Andrey, Fedorov, 85212384, Minsk
-Lisitsyn.A@company.io, Alexey, Lisitsyn, 1239532, Tver
-Abramova.D@company.io, Dariya, Abramova, 7163908, Moscow
-Evdokimov.A@company.io, Alexandr, Evdokimov, 482, Volokolamsk
-Kostina.N@company.io, Nataliya, Kostina, 9031433, Moscow
-Ermolin.N@company.io, Nikolay, Ermolin, 8539233, St.Petersburg
-Solovovo.V@company.io, Vladimir, Solovovo, 4758395, St.Petersburg
-Ivanov.V@company.io, Vladimir, Ivanov, 4827594, Novosibirsk
-Nikolaev.S@company.io, Sergey, Nikolaev, 1294375, Sarov
-Ivanov.I@company.io, Ivan, Ivanov, 8532354, Kazan
-Semenov.K@company.io, Konstantin, Semenov, 8532286, Moscow
-Smirnov.G@company.io, Grigoriy, Smirnov, 3249235, Kaliningrad
-Lashko.A@company.io, Alexandr, Lashko, 9548324, St.Petersburg
-Edger.O@company.io, Oksana, Edger, 8548433, Kostroma
-Bogomolova.O@company.io, Olga, Bogomolova, 8953253, Moscow
-Strizh.E@company.io, Evgeniy, Strizh, 1123313, Krasnodar
-Sergach.V@company.io, Valentina, Sergach, 12345567, St.Petersburg
-Volskaya.P@company.io, Polina, Volskaya, 1394542, Vladimir
-Malinin.F@company.io, Fedor, Malinin, 9453223, Moscow
-Pahomova.O@company.io, Olga, Pahomova, 8543231, Moscow
-Bogdanov.S@company.io, Stepan, Bogdanov, 4564624, St.Petersburg
-Smirnov.D@company.io, Dmitriy, Smirnov, 9355r24, Kazan
-Kolokolkina.V@company.io, Valeria, Kolokolkina, 12O4352, St.Petersburg
-Sobolev.I@company.io, Ivan, Sobolev, 2350223, Kirov
-Orlova.K@company.io, Kristina, Orlova, 1342349, Talnakh
-Ermolin.A@company.io, Alexandr, Ermolin, 2345234, Mozhaysk
-Vasilevskaya.E@company.io, Ekaterina, Vasilevskaya, 9583573, Moscow
-Koroleva.T@company.io, Tatiana, Koroleva, 8674532, Vidnoe
-Moskvina.E@company.io, Elena, Moskvina, 7584294, Moscow
-Sinev.M@company.io, Mikhail, Sinev, 5964353, St.Petersburg
-NO_NAME.N@company.io, NO_NAME, NO_NAME, 2856735, Kaliningrad
-Boshich.A@company.io, Anastasiya, Boshich, 9654534, Omsk
-Kapustina.S@company.io, Svetlana, Kapustina, 9476353, Moscow
-Nikolaev.B@company.io, Boris, Nikolaev, 9583583, Moscow
-Mozgvin.A@company.io, Andrey, Mozgvin, 8537572, Krasnodar
-Bogatyreva.O@company.io, Oksana, Bogatyreva, 8743565, St.Petersburg
-Nosatenko.K@company.io, Kseniya, Nosatenko, 1234194, Yaroslavl
-Grigoriev.K@company.io, Konstantin, Grigoriev, 1284575, Moscow
+EMAIL, PASSWORD, NAME, LAST_NAME, TEL, CITY
+Abramov.I@company.io, 7Nd*(l$zE7B9, Ivan, Abramov, 7776514, Moscow
+Nikolaev.A@company.io, E$!##(q1-6vh, Alexey, Nikolaev, 1348520, Moscow
+Shapar.M@company.io, w3b#%YLflSjA, Marina, Shapar, 1111110, Moscow
+Vasilyev.D@company.io, 5i167+O-y&vl, Dmitriy, Vasilyev, 0000000, Kazan
+Grigoryan.A@company.io, Aq+Y7Y^!4ONZ, Anastasiya, Grigoryan, 1928421, Ekaterinburg
+Lisitsyn.A@company.io, QUP&D6Cbf+Rb, Alexey, Lisitsyn, 1239532, Tver
+Abramova.D@company.io, 4PiO!r)(6H$3, Dariya, Abramova, 7163908, Moscow
+Kostina.N@company.io, e0Zuei(B@#zy, Nataliya, Kostina, 9031433, Moscow
+Ermolin.N@company.io, 1Qip-%DB7f%*, Nikolay, Ermolin, 8539233, St.Petersburg
+Solovovo.V@company.io, TKg3^M!FB9&8, Vladimir, Solovovo, 4758395, St.Petersburg
+Ivanov.V@company.io, On^(u4mXv-Sa, Vladimir, Ivanov, 4827594, Novosibirsk
+Nikolaev.S@company.io, 0&s3HuenlyeX, Sergey, Nikolaev, 1294375, Sarov
+Ivanov.I@company.io, -s)f&T%V*6W), Ivan, Ivanov, 8532354, Kazan
+Semenov.K@company.io, Qx(288%3a@Hd, Konstantin, Semenov, 8532286, Moscow
+Smirnov.G@company.io, 6+hSP7O*v35m, Grigoriy, Smirnov, 3249235, Kaliningrad
+Lashko.A@company.io, +YS4-o818%-), Alexandr, Lashko, 9548324, St.Petersburg
+Edger.O@company.io, 4u-HD9(t)o2g, Oksana, Edger, 8548433, Kostroma
+Bogomolova.O@company.io, 65^$o&2X%@MJ, Olga, Bogomolova, 8953253, Moscow
+Strizh.E@company.io, vK7#RZ^*u4t4, Evgeniy, Strizh, 1123313, Krasnodar
+Volskaya.P@company.io, m50$12bl0^-J, Polina, Volskaya, 1394542, Vladimir
+Malinin.F@company.io, &qT29l95nY&2, Fedor, Malinin, 9453223, Moscow
+Pahomova.O@company.io, jbSe7e1k*ucQ, Olga, Pahomova, 8543231, Moscow
+Bogdanov.S@company.io, 71uyS4U(923-, Stepan, Bogdanov, 4564624, St.Petersburg
+Smirnov.D@company.io, 8b3Ty)(ZQ9si, Dmitriy, Smirnov, 9355r24, Kazan
+Kolokolkina.V@company.io, k!!l$QKe$*8l, Valeria, Kolokolkina, 12O4352, St.Petersburg
+Sobolev.I@company.io, j1Q4y+H*4E1d, Ivan, Sobolev, 2350223, Kirov
+Orlova.K@company.io, Jbid%n@8yB0^, Kristina, Orlova, 1342349, Talnakh
+Ermolin.A@company.io, Hfm@a&y6)re7, Alexandr, Ermolin, 2345234, Mozhaysk
+Vasilevskaya.E@company.io, 6#v2%cRxDBoD, Ekaterina, Vasilevskaya, 9583573, Moscow
+Koroleva.T@company.io, 4vUktNb63r!B, Tatiana, Koroleva, 8674532, Vidnoe
+Moskvina.E@company.io, l4w@5k#P5&os, Elena, Moskvina, 7584294, Moscow
+Sinev.M@company.io, ^vY67)zB3N8g, Mikhail, Sinev, 5964353, St.Petersburg
+Boshich.A@company.io, F%Ft$3$a4iQ!, Anastasiya, Boshich, 9654534, Omsk
+Kapustina.S@company.io, vZPG9zV^#s-$, Svetlana, Kapustina, 9476353, Moscow
+Nikolaev.B@company.io, kW*a-V(0*!$g, Boris, Nikolaev, 9583583, Moscow
+Mozgvin.A@company.io, +0RpoP(PDh0U, Andrey, Mozgvin, 8537572, Krasnodar
+Bogatyreva.O@company.io, !83C+VO@rK5G, Oksana, Bogatyreva, 8743565, St.Petersburg
+Nosatenko.K@company.io, s#1Dx3*3q%@n, Kseniya, Nosatenko, 1234194, Yaroslavl
+Grigoriev.K@company.io, BA5x)1+E4ozS, Konstantin, Grigoriev, 1284575, Moscow
